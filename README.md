@@ -1,4 +1,4 @@
-# VibeShare – Social Feed Application
+# FeedSpace – Social Feed Application
 
 A modern **social media feed application** where users can create posts, upload images, and view a scrolling feed.  
 The project is built using the **MERN stack**: MongoDB, Express.js, React, and Node.js.
